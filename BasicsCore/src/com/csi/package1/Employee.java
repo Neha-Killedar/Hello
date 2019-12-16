@@ -16,6 +16,9 @@ public class Employee extends Address1 {
 		System.out.println("Addition is: "+(a+b));
 		System.out.println("Addition is done successfully");
 		
+		System.out.println("subtraction is: " +(a-b));
+		System.out.println("subtraction is done successfully");
+		
 		
 	}
 
